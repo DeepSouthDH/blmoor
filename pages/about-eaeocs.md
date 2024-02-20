@@ -8,6 +8,12 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="blmoor166" heading="About EAEOCS" text="Education Association of East Oktibbeha County Schools" %}
 
+# Events
+
+![Flyer of Event](/assets/img/bhm_eaeocs24.png) 
+
+We are exceedingly honored and proud to receive an Award of Merit from the Mississippi Historical Society. The MHC's local division will formally present this award on Saturday, February 24, 2024 at the Oktibbeha County Safe Room from 1-4p. The entire B.L. Moor High School Family; Former Faculty-Staff, Moor/East High graduates, and communities leaders will be recognized. The event is free, but seating is limited. 
+
 # Who is EAEOCS?
 
 The Education Association of East Oktibbeha County Schools became a state registered organization in 2001 whenever 18 B.L. Moor graduates determined there was a need for a group that could improve and aid the school's exterior and the students' day-to-day lives. Since 2015, EAEOCS has remained active in preserving the school's history and encouraging alumni correspondence and appreciation. The private non-profit organization is designated to help the community and has achieved and remained compliant with all federal eligibility requirements for 20 years and counting. 
