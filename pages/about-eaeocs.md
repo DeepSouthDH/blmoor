@@ -10,9 +10,11 @@ credits: false
 
 # Events
 
-![Flyer of Event](/assets/img/bhm_eaeocs24.png) 
+![Flyer of Event](/img/bhm_eaeocs24.png) 
 
-We are exceedingly honored and proud to receive an Award of Merit from the Mississippi Historical Society. The MHC's local division will formally present this award on Saturday, February 24, 2024 at the Oktibbeha County Safe Room from 1-4p. The entire B.L. Moor High School Family; Former Faculty-Staff, Moor/East High graduates, and communities leaders will be recognized. The event is free, but seating is limited. 
+We are exceedingly honored and proud to receive an Award of Merit from the Mississippi Historical Society. The MHC's local division will formally present this award on Saturday, February 24, 2024 at the Oktibbeha County Safe Room from 1-4p. The entire B.L. Moor High School Family; Former Faculty-Staff, Moor/East High graduates, and communities leaders will be recognized. The event is free, but seating is limited.
+
+For updates, [follow EAEOCS on Facebook](https://www.facebook.com/profile.php?id=100064731277500). 
 
 # Who is EAEOCS?
 
