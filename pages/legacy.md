@@ -2,7 +2,7 @@
 title: The Legacy of B.L. Moor
 layout: about
 permalink: /legacy.html
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

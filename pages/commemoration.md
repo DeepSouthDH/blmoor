@@ -7,13 +7,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Commemoration
-
-This page is designed to honor those who made Pleasant Grove, B.L. Moor, and other community schools in southeast Oktibbeha a possibility despite the ongoing injustices faced during and after segregation, as well as provividing education to countless students who may have otherwise gone without. 
-
-In addition to these individuals, this page will honor notable alumni<!--hyperlink to section--> who have made a difference during and after their time at B.L. Moor. 
-
 # B.L. Moor Teachers and Administrators
+
+This page honors those who made Pleasant Grove, B.L. Moor, and other community schools in southeast Oktibbeha a possibility despite the ongoing injustices faced during and after segregation, as well as provividing education to countless students who may have otherwise gone without. 
+
+In addition to these individuals, this page will honor notable alumni<!--hyperlink to section--> who have made a difference during and after their time at B.L. Moor.
 
 ## E.N. Wicks
 
